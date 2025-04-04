@@ -1,11 +1,5 @@
-import React from 'react'
-
 function Create() {
-  return (
-    <div>
-      Create
-    </div>
-  )
+  return <div>Create</div>;
 }
 
-export default Create
+export default Create;
